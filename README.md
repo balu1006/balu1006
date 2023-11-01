@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![logo](https://media.licdn.com/dms/image/D5616AQE23GTNjem4IA/profile-displaybackgroundimage-shrink_350_1400/0/1664734448858?e=1681948800&v=beta&t=Jb_Dm7VNDWot2WI0fE49bvpKq-MzjPpu6RXsXAc36YY))
+![logo](https://drive.google.com/file/d/1ET5KFfeOBAmddfDFKoc7YKIAlQmQJrXO/view?usp=sharing)
 
 <h1 align="center">Hi 👋🏻, I'm Balu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
