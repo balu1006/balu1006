@@ -8,8 +8,7 @@
 balu1006/balu1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](![image](https://github.com/balu1006/balu1006/assets/101409985/ff03d80e-6b86-4b5e-8c49-12cf4d9de11d)
-)
+![logo](![image](![image](https://github.com/balu1006/balu1006/assets/101409985/9692b3b0-d692-49ed-a261-bb813837dae4))
 <h1 align="center">Hi 👋🏻, I'm Balu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width = "400" src = "https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
